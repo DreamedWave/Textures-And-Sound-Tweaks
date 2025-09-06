@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "item/beetroot_soup_consume",
+        "layer0": "item/beetroot_soup"
+    }
+}

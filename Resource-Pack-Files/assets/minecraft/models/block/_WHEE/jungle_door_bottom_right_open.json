@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "minecraft:block/jungle_door_bottom",
+    "side": "minecraft:block/door/jungle_door_top_hinge",
+    "top": "minecraft:block/jungle_door_top"
+  }
+}

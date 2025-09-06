@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "item/ender_pearl",
+        "layer0": "item/ender_pearl"
+    }
+}

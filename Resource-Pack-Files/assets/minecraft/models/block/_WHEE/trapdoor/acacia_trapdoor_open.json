@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_open",
+  "textures": {
+    "face": "minecraft:block/acacia_trapdoor",
+    "side": "minecraft:block/trapdoor/acacia_trapdoor_side",
+    "side_open": "minecraft:block/trapdoor/acacia_trapdoor_side_open"
+  }
+}

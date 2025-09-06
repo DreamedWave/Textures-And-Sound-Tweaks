@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:block/mangrove_door_bottom",
+    "side": "minecraft:block/door/mangrove_door_bottom_hinge",
+    "top": "minecraft:block/mangrove_door_top"
+  }
+}

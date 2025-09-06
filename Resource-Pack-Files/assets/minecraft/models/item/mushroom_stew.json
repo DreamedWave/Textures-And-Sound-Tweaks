@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "item/mushroom_stew_consume",
+        "layer0": "item/mushroom_stew"
+    }
+}

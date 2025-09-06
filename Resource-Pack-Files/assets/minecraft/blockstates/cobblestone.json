@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/cobblestone",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/cobblestone/0",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/cobblestone/1",
+        "weight": 10
+      }
+    ]
+  }
+}

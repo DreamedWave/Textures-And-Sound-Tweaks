@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/ancient_debris",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/ancient_debris/0",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/ancient_debris/1",
+        "weight": 10
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,305 @@
+Credits:
+
+   Freesound: <https://freesound.org/>
+      -Alternate source for Sound Effects
+
+   Vanilla Tweaks: <https://vanillatweaks.net/>
+      -Reference .json files (so I could learn to create my own)
+      -Reference and Placeholder for Diminishing Items sprites
+      -Diminishing Items .json files
+      -Hopper underside texture placeholder
+      -Block-entity break particles fix
+      -Double Slab fix
+      -3D Stonecutters, Sugar Canes and Iron Bars
+      -Lower Shield (slightly modified)
+
+   Blockbench: https: <https://blockbench.net/>
+      -Minecraft model and texture creator/editor
+         -Model for "The Sun"
+         -Unused models for shields
+	    -Model for Brewing Stand
+
+   Optifine Discord:
+      -Help with troubleshooting "MC-Bow" models    
+       (@Mr_Negatron_YT #8416)
+      -Help with troubleshooting end bedrock ctm
+       (@_Guide_#9900 and Pomik108#1378!)
+
+   Music:
+      -Lena Raine ~ Starjump [Celeste OST]
+      -C418 ~ Minecraft: Volume Alpha/Beta [Credit Tracks]
+      -C418 ~ Minecraft: Volume Alpha [Edited Menu Tracks]
+
+   And everything else was created by me!
+
+----------------------------------------------------------------
+
+Changes made from default minecraft:
+
+ General:
+      -Removed unused and excess files from resource pack 
+        making it more optimised and have a smaller file-size 
+        than previous pack versions (Unused default assets)
+
+ Textures:
+    Block textures:
+      -Imported Updated 1.17 Ore textures
+         -Added variations to all ore textures
+      -Imported 1.18 texture fixes
+      -Added emissive textures [Requires Optifine or Indium]
+      -Added Soul Soil/Sand to Soul Campfires
+      -Imported Updated 1.17 Blackstone textures
+         -Added custom blackstone top
+         -Added custom Gilded Blackstone texture
+         -Added top texture to Gilded Blackstone
+      -Made Campfire, Soul Campfire, Fire, and Soul Fire 
+        animations loop more smoothly
+      -Imported 1.19 Cocoa Pod texture fix
+      -Added bottom texture to Crafting Table
+      -Added bottom texture to Brewing Stand
+      -Slightly changed dirt texture
+      -Added parity to block and item form of Ender Eyes
+      -Slightly changed End Portal Frame side
+      -Added Farmland sides and textures to moistness stages 
+      -Changed Fletching Table arrow to match flint arrowheads
+      -Added parity to block and item form of Flower Pots
+      -Added missing shadow to Grass Path side
+      -Added Honey Block side animation
+      -Added bottom, side, and end textures to Hopper
+      -Added interlopation to Lantern and Soul Lantern 
+        animation
+      -Added missing interlopation to Lava texture animations
+      -Added custom texture for Lever base
+      -Added animation to powered Lightning Rod texture
+      -Added bottom texture to Melon Block and Pumpkin Block
+      -Updated Observer top texture
+      -Added custom textures to Petrified Oak Slabs
+      -Added Prismarine animation to Prismarine Bricks
+      -Added missing interlopation to Sea Lantern texture 
+        animations
+      -Imported 1.17 Smoker top textures
+      -Added parity between Lantern and Soul Lantern textures
+      -Slightly changed stone texture
+      -Added wood parts to Stonecutter Bottom
+      -Fixed tiling of Stripped Birch, Crimson, Dark Oak, 
+        Spruce, and Warped Logs/Stems
+      -Lowered Tall Seagrass Texture by one pixel
+      -Added missing interlopation to Water texture animations
+
+    Entity textures:
+      -Added emissive textures [Requires Optifine]
+      -Added missing detail to Polar Bear texture
+      -Added missing detail to Cat textures
+      -Added animations to Conduit eye textures
+      -Updated Creeper texture
+         -Changed Creepers to be textured accordingly. (e.g. 
+           desert creepers would be sand coloured, cave 
+           creepers would be stone-colored, etc)
+		[Requires Optifine/CET]
+      -Changed End Crystal Texture
+      -Added detail to Ender Dragon texture
+      -Added detail to Fox Texture
+      -Added parity to entity and item form of Saddles
+      -Updated Iron Golem texture
+         -Added shading to damaged states
+         -Added parity by changing yellow flowers to red
+      -Changed Arrowhead to Flint to match crafting recipe
+         -Imported 1.17 Spectral Arrow textures
+         -Changed Tipped Arrow textures
+      -Imported 1.17 Sign textures
+      -Changed angry and tamed Wolf texture
+      -Decreased resloution of Bat texture
+      -Added Bottom texture to Blaze's rods
+      -Added parity to entity and item form of Leads
+      -Slightly changed Shield texture
+      -Slightly added variation to Trident riptide
+      -Simplified Witch texture
+
+    GUI Textures:
+      -Reduced contrast of Advancement Screen backgrounds
+      -Changed Container GUIs
+         -Updated Anvil and Smithing Table GUI
+         -Slightly tweaked Beacon GUI
+         -Fixed Furnace, Blast Furnace, Smoker, and Brewing 
+           Stand GUI
+         -Updated Cartography Table GUI
+         -Changed recipe book button in Crafting Table GUI
+         -Updated Enchantment Table GUI
+         -Updated Stats Icons
+      -Updated Hotbar Icons
+      -Tweaked Options Background
+      -Updated Recipe Book GUI
+      -Updated Toasts
+
+    Item Textures:
+      -Added emissive textures [Requires Optifine]
+      -Changed Arrows to have a Flint Tip
+      -Added item forms of Azalea, Flowering Azelea, Big    
+        Dripleaf, Small Dripleaf, Spore Blossoms, and Dragon 
+        Egg
+      -Added diminishing items to weapons and tools (item 
+        sprite changes as the durability gets lower)
+      -Added particle to broken Shields
+      -Imported Clock, Compass, and Sugar Cane sprites from 
+        1.17
+      -Improved shading of weapons and tools
+      -Added particle to consumed Enchanted Golden Apples
+      -Tweaked End Crystal item sprite
+      -Added Fishing Rod bobber colours to Fishing Rod
+      -Added parity to Gold Ingot and Golden Nugget colours
+      -Tweaked Hopper item sprite
+      -Added custom item sprites for Torch, Redstone/Soul   
+       Torch, and Levers.
+      -Added parity to all Music Disc sprites
+      -Improved sprites of Signs
+      -Removed eating particle from Stews
+      -Made Netherite tools and armour sprites look less like 
+        stone tools
+      -Matched Spyglass colours with Copper and Amethyst
+      -Added parity between Trident model and sprite
+      -Made Turtle Egg corners brighter
+
+    Misc Textures:
+      -Made Pumpkin overlay slightly transparent and less 
+        squished
+      -Made enchantment glint less obtrusive
+      -Made world border less obtrusive
+      -Added extra detail to nausea, spyglass, and freezing 
+        overlays
+      -Updated Server and Unknown Server icons
+      -Made vignette overlay more smooth
+      -Updated underwater overlay
+      -Added Instant Health, Instant Damage, and Saturation 
+        icons
+      -Made worn Netherite Armour texture less bland
+      -Tweaked Creebet and Pig Scene paintings
+
+    Particle Textures:
+      -Tweaked Explosion, Soul, Sparkle, Spark, Instant 
+        Effect, Sonic Boom, and Sweep particle animations
+      -Added animation to Bubble Colum and Fishing particles
+      -Added custom Spit particles
+
+    Optifine Textures:
+      -Added broken state for Trident
+      -Added sprites for Easter Egg Nametags
+      -Added End dimension textures for Bedrock 
+       Obsidian, Crying Obsidian, Fire, and Iron Bars [CTM]
+      -Added connected textures for Vines
+
+
+
+ Sounds:
+    Ambient Sounds:
+      -Added Cave Chimes
+      -Added Thirteen sounds
+      -Added subtitles for Nether mood
+      -Added randomised Fire and Water ambient sounds
+      -Added unique Lightning Strike sounds
+
+
+    Block Sounds:
+      -Added placing and breaking sounds to Anvils
+      -Added use sound variants for Bubble Columns
+      -Added new sounds for Gilded Blackstone, Slime Block, 
+        Glass, Deepslate Bricks, Deepslate Tiles, Pointed 
+        Dripstone, Ladders, Metal/Mineral Blocks, Netherite 
+        Blocks, and Ancient Debris
+      -Added breaking sounds to Stone Blocks, Dripstone, Tuff, 
+        Basalt, Bone Blocks, Sand, Netherbrick, Netherrack, 
+        Coral, Gravel/Dirt Blocks, Wooden Blocks, and Cloth 
+        Blocks
+      -Tweaked Deepslate breaking sounds
+      -Added new and randomised sounds for Redstone component 
+        blocks
+      -Added random sounds for Ender Chest closing
+      -Added unique sounds for using a Smithing Table to 
+        upgrade your Diamond Armour to Netherite
+      -Changed Nether Roots step sound to be a pitched down 
+        version of Nether Sprouts step sound
+      -Temporarily lowered all Mud Block sounds (A refresh 
+        will come soon)
+
+
+    Item Sounds:
+      -Added custom Egg, Snowball, Enderpearl, and Potion/Exp 
+        Bottle throw sounds
+      -Added custom Fishing Bobber splash sounds
+      -Added Chorus Fruit teleport sounds
+      -Added custom Elytra Equip sounds
+      -Added custom Crossbow Arrow hit sounds
+      -Added Fire Charge use sound variants
+      -Added Flint and Steel use sound variants
+      -Added Shield breaking sounds
+
+    Entity Sounds:
+      -Increased Blaze sounds' attenuation distance to 50
+      -Added unique Blaze burn and shoot sounds
+      -Added unique Creeper fuse sound
+      -Added unique Ender Dragon Fireball explode sounds
+      -Tweaked Ender Dragon idle, hurt, and death sounds
+      -Added unique Ender Dragon shoot sound
+      -Added custom Endermite sounds
+      -Tweaked some of the mobs' idle, hurt, or death sounds
+         -Added reverb to Ghast noises
+         -Added reverb and echo to Ender Dragon sounds
+         -Removed static noise from Chicken and Pig sounds
+         -Tweaked Guardian shoot and curse sounds
+         -Made Husk/Zombie convert sounds more watery
+         -Made Drowned underwater sounds more watery
+         ...And some other small changes
+      -Added drinking sound variants
+      -Weakened volume of eating sounds
+      -Added custom Magma Cube sounds
+      -Tweaked Player attacking sounds
+      -Added Player death sound
+      -Added Armour Stand place and fall sounds
+      -Added Splash Potion break sounds
+      -Added Wither block break variations
+
+    Music:
+      -Adjusted the new music's weight values
+      -Added music to Warped Forests
+      -Added rare variant to Disc 11
+      -Made Music Discs sound like they're being played from a
+        gramophone (Added scratches and noise)
+      -Extended "credits.ogg"
+      -Remixed "otherside" with BGC418
+      -Tweaked and adjusted new 1.18/1.19 music (to be less 
+        loud)
+      -Added old versions of 'Wet Hands' and 'Mice on Venus'
+
+    Misc Sounds:
+      -Added unique sounds for End Gateways spawning
+      -Added randomised Fire extinguish sounds
+      -Added randomised sounds for succesfully hitting a 
+        player with an arrow in multiplayer
+      -Added custom version of Menu button click sounds
+
+ Texture (or sound) Tweaks for Mods:
+      -Roughly Enough Items (UI Texture Tweaks)
+      -Bewitchment (Various Texture Tweaks)
+      -AmbientSounds5 (Volume Tweaks)
+      -Appleskin (Icon Changes)
+      -Better Nether (Cinnica-idk Texture Refresh)
+      -Dynagear (Iron Hammer Texture Refresh)
+      -Vanilla Items (Hammer Sprite Refreshes)
+
+ Easter Eggs [May Require Optifine or CIT]:
+      -Renaming a Shroomlight into "The Sun" will give it a 
+        lightbulb texture. This is a reference to an item 
+        named 'The Sun' in the game, Oneshot.
+      -Renaming a Leather Cap to "Niko's Hat" will give it a 
+        texture of a Hat with Cat Ears. This is a reference to 
+        what the main character, Niko, wears in the game, 
+        Oneshot.
+      -Renaming a Gold/Iron Nugget into anything with the word 
+        "Coin" will give it a familiar coin texture.
+      -Renaming any Netherite Tool or Armour to anything with 
+        the word "Boi" will give it a gilded look.
+      -Renaming a Bow to "Papara-Papa!" will give it a texture 
+        reminiscent of the Mc-Donalds golden arches.
+
+
+
+Thank you for taking your time to read the changelog!

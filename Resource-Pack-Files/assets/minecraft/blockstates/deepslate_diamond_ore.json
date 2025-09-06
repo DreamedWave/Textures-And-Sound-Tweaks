@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/deepslate_diamond_ore",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/deepslate_diamond_ore/0",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/deepslate_diamond_ore/1",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/deepslate_diamond_ore/2",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/deepslate_diamond_ore/3",
+        "weight": 10
+      }
+    ]
+  }
+}

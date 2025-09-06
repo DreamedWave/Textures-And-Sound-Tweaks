@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "item/rabbit_stew_consume",
+        "layer0": "item/rabbit_stew"
+    }
+}

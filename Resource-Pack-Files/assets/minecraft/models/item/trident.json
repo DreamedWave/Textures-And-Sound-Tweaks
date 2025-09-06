@@ -1,0 +1,29 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/trident"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.7
+            },
+            "model": "item/broken_trident"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.8
+            },
+            "model": "item/broken_trident"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.9
+            },
+            "model": "item/broken_trident"
+        }
+    ]
+}
