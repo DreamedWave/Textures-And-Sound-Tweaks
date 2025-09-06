@@ -26,7 +26,7 @@ Credits:
        (@_Guide_#9900 and Pomik108#1378!)
 
    Music:
-      -Lena Raine ~ Starjump [Celeste OST]
+      -Lena Raine ~ Starjump [Celeste OST] for Placeholder Dragon Fight Track
       -C418 ~ Minecraft: Volume Alpha/Beta [Credit Tracks]
       -C418 ~ Minecraft: Volume Alpha [Edited Menu Tracks]
 
@@ -66,16 +66,16 @@ Changes made from default minecraft:
       -Added missing shadow to Grass Path side
       -Added Honey Block side animation
       -Added bottom, side, and end textures to Hopper
-      -Added interlopation to Lantern and Soul Lantern 
+      -Added interpolation to Lantern and Soul Lantern 
         animation
-      -Added missing interlopation to Lava texture animations
+      -Added missing interpolation to Lava texture animations
       -Added custom texture for Lever base
       -Added animation to powered Lightning Rod texture
       -Added bottom texture to Melon Block and Pumpkin Block
       -Updated Observer top texture
       -Added custom textures to Petrified Oak Slabs
       -Added Prismarine animation to Prismarine Bricks
-      -Added missing interlopation to Sea Lantern texture 
+      -Added missing interpolation to Sea Lantern texture 
         animations
       -Imported 1.17 Smoker top textures
       -Added parity between Lantern and Soul Lantern textures
@@ -84,7 +84,7 @@ Changes made from default minecraft:
       -Fixed tiling of Stripped Birch, Crimson, Dark Oak, 
         Spruce, and Warped Logs/Stems
       -Lowered Tall Seagrass Texture by one pixel
-      -Added missing interlopation to Water texture animations
+      -Added missing interpolation to Water texture animations
 
     Entity textures:
       -Added emissive textures [Requires Optifine]
