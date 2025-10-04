@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/door_top",
-  "textures": {
-    "top": "minecraft:block/crimson_door_top",
-    "side": "minecraft:block/door/crimson_door_top_hinge",
-    "bottom": "minecraft:block/crimson_door_bottom"
-  }
-}

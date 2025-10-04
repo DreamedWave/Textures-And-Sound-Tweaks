@@ -3618,7 +3618,7 @@
       {
         "name": "music/game/komorebi",
         "stream": true,
-        "volume": 0.8,
+        "volume": 0.7,
         "weight": 5
       },
       {
@@ -3667,6 +3667,7 @@
       {
         "name": "music/game/re_lullaby",
         "stream": true,
+        "volume": 0.85,
         "weight": 3
       },
       {
@@ -3688,7 +3689,7 @@
       {
         "name": "music/game/yakusoku",
         "stream": true,
-        "volume": 0.8,
+        "volume": 0.5,
         "weight": 3
       }
     ]
@@ -4336,57 +4337,57 @@
         "weight": 9
       },
       {
-        "name": "music/game/nether/warped_forest/along_distortions",
+        "name": "music/game/nether/warped_forest/chrysopoeia_warped",
         "stream": true,
-        "volume": 0.8,
+        "volume": 0.6,
+        "weight": 7
+      },
+      {
+        "name": "music/game/nether/warped_forest/concrete_halls_warped",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 7
+      },
+      {
+        "name": "music/game/nether/warped_forest/dead_voxel_warped",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 7
+      },
+      {
+        "name": "music/game/nether/warped_forest/warmth_warped",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 7
+      },
+      {
+        "name": "music/game/nether/warped_forest/ballad_of_the_warped",
+        "stream": true,
+        "volume": 0.5,
         "weight": 7
       },
       {
         "name": "music/game/nether/warped_forest/inundated_chrysalis",
         "stream": true,
-        "volume": 0.8,
-        "weight": 7
-      },
-      {
-        "name": "music/game/nether/warped_forest/inundated_chrysalis_old",
-        "stream": true,
-        "volume": 0.8,
+        "volume": 0.65,
         "weight": 6
       },
       {
         "name": "music/game/nether/warped_forest/isolated_catharses",
         "stream": true,
         "volume": 0.8,
-        "weight": 7
-      },
-      {
-        "name": "music/game/nether/warped_forest/chrysopoeia_warped",
-        "stream": true,
-        "weight": 4
-      },
-      {
-        "name": "music/game/nether/warped_forest/concrete_halls_warped",
-        "stream": true,
         "weight": 6
       },
       {
-        "name": "music/game/nether/warped_forest/dead_voxel_warped",
+        "name": "music/game/nether/warped_forest/along_distortions",
         "stream": true,
-        "weight": 5
-      },
-      {
-        "name": "music/game/nether/warped_forest/warmth_warped",
-        "stream": true,
-        "weight": 4
-      },
-      {
-        "name": "music/game/nether/warped_forest/ballad_of_the_cats_warped",
-        "stream": true,
+        "volume": 0.68,
         "weight": 5
       },
       {
         "name": "music/game/nether/warped_forest/cryptic_miscalculation1",
         "stream": true,
+        "volume": 0.9,
         "weight": 1
       },
       {
@@ -4397,6 +4398,7 @@
       {
         "name": "music/game/nether/warped_forest/cryptic_miscalculation3",
         "stream": true,
+        "volume": 0.8,
         "weight": 1
       }
     ]

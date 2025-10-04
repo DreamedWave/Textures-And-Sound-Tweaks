@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_orientable_trapdoor_top",
-  "textures": {
-    "face": "minecraft:block/spruce_trapdoor",
-    "side": "minecraft:block/trapdoor/spruce_trapdoor_side"
-  }
-}

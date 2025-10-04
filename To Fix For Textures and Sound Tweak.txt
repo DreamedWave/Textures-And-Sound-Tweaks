@@ -1,0 +1,23 @@
+To Fix For Textures and Sound Tweaks
+
+- New Icon
+- Fix missing particles
+- Retexture and Fix Door Sides
+- Retexture menu buttons
+- Revamped redstone component sounds
+- Missing door sounds for copper and bamboo and cherry and warped doors
+- Revamped fishing, explosion, warden boom, and electric particles
+- levelling of volume for new/old oversworld music
+- Revamped Fletching Table UI
+- Add sprites for shield, bed, and other 3d blocks
+- Copper Lantern corner fix and animation fix
+- Fix the pixel art of the sideways farmland
+- Lower any remaining sea plants' textures to prevent them from clipping out of the water
+- Update creeper texture (reduce colours)
+- update end crystal texture (reduce colours)
+- Finish adding detail to ender dragon
+- Fix flower pot texture
+- Add item sprite for Shield to match tridents
+- Change lighting strike sounds again
+- Make warped forest control tracks longer
+- The fucking azalea and spore blossom as items stopped working

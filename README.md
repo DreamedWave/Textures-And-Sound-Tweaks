@@ -45,6 +45,29 @@ Music:
 
 # Tweaks from Vanilla Minecraft
 ## Texture Changes:
+### Item Textures:
+- Added emissive textures *[Requires Optifine]*
+- Added diminishing item sprites to weapons and tools (sprite changes as the durability gets lower)
+- Added new item sprites for Azalea, Flowering Azelea, Big Dripleaf, Small Dripleaf, Spore Blossoms, Dragon Egg, and Shields
+- Added particle to broken Shields (don't look at the "items" folder cuz it is a little cursed)
+- Added particle to consumed Enchanted Golden Apples
+- Added Fishing Rod bobber colours to Fishing Rod
+- Added parity to Gold Ingot and Golden Nugget colours
+- Added custom item sprites for Torch, Redstone/Soul Torch, and Levers
+- Added missing shading to all Music Disc sprites to match The Texture Update's Disc 11
+- Added missing shading to weapons and tools to match The Texture Update's Swords
+- Tweaked Arrows to have a Flint Tip
+- Tweaked Trident item sprite to match it's Model counterpart
+- Tweaked End Crystal item sprite
+- Tweaked Hopper item sprite
+- Tweaked sprites of Signs
+- Tweaked Netherite tools and armour sprites to look less like stone tools
+- Tweaked the Spyglass colours to match its crafting materials (Copper and Amethyst)
+- Tweaked Turtle Egg sprite to make its corners brighter
+- Imported Clock, Compass, and Sugar Cane sprites from 1.17
+- Imported Dye sprites from 1.20.9
+- Removed eating particle from Stews
+
 ### Block Textures:
 - Imported 1.19 Cocoa Pod texture fix
 - Imported 1.18 texture fixes
@@ -115,41 +138,18 @@ Music:
 - Darkened Advancement Screen backgrounds
 - Changed Combat Cooldown icons for both Crosshair and Hotbar to be more readable.
 - Changed Map Background texture and Map Icon sprites to be more detailed
-- Changed Container GUIs
-    - Changed recipe book button in Crafting Table GUI
     - Changed the Instant Health, Instant Harm, and Saturation effect icons
     - Slightly tweaked the Hunger effect icon
-    - Slightly tweaked Beacon GUI
-    - Fixed Furnace, Blast Furnace, Smoker, and Brewing Stand GUI
-    - Updated Smithing Table GUI
-    - Updated Cartography Table GUI
-    - Updated Enchantment Table GUI
+- Overhauled and Tweaked Container GUIs *(Inspired by Colourful container GUIs)*
+    - Added new sprites for
+        - Anvil
+        - Crafting/Smithing Table
+        - Crafter
+    - Changed recipe book button in Crafting Table GUI
     - Updated Stats Icons
     - Updated Hotbar/HUD Icons
     - Updated Recipe Book GUI
     - Updated Toasts
-
-### Item Textures:
-- Added emissive textures *[Requires Optifine]*
-- Added diminishing item sprites to weapons and tools (sprite changes as the durability gets lower)
-- Added new item sprites for Azalea, Flowering Azelea, Big Dripleaf, Small Dripleaf, Spore Blossoms, Dragon Egg, and Shields
-- Added particle to broken Shields (don't look at the "items" folder cuz it is a little cursed)
-- Added particle to consumed Enchanted Golden Apples
-- Added Fishing Rod bobber colours to Fishing Rod
-- Added parity to Gold Ingot and Golden Nugget colours
-- Added custom item sprites for Torch, Redstone/Soul Torch, and Levers
-- Added missing shading to all Music Disc sprites to match The Texture Update's Disc 11
-- Added missing shading to weapons and tools to match The Texture Update's Swords
-- Tweaked Arrows to have a Flint Tip
-- Tweaked Trident item sprite to match it's Model counterpart
-- Tweaked End Crystal item sprite
-- Tweaked Hopper item sprite
-- Tweaked sprites of Signs
-- Tweaked Netherite tools and armour sprites to look less like stone tools
-- Tweaked the Spyglass colours to match its crafting materials (Copper and Amethyst)
-- Tweaked Turtle Egg sprite to make its corners brighter
-- Imported Clock, Compass, and Sugar Cane sprites from 1.17
-- Removed eating particle from Stews
 
 ### Misc Textures:
 - Added new Server and Unknown Server icons
@@ -162,7 +162,7 @@ Music:
 - Made worn Netherite Armour texture less bland
 - Tweaked Creebet and Pig Scene paintings
 
-## Particle Textures:
+### Particle Textures:
 - Tweaked Explosion, Soul, Sparkle, Spark, Instant Effect, Sonic Boom, and Sweep particle animations
 - Added animation to Bubble Colum and Fishing particles
 - Added custom Spit particles
