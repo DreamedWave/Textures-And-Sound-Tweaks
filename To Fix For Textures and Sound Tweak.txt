@@ -11,7 +11,7 @@ To Fix For Textures and Sound Tweaks
 - Revamped Fletching Table UI
 - Add sprites for shield, bed, and other 3d blocks
 - Copper Lantern corner fix and animation fix
-- Fix the pixel art of the sideways farmland
+/ Fix the pixel art of the sideways farmland
 - Lower any remaining sea plants' textures to prevent them from clipping out of the water
 - Update creeper texture (reduce colours)
 - update end crystal texture (reduce colours)
